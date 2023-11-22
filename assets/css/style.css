@@ -144,6 +144,7 @@ html{
 }
 #home .content{
     width: 55rem;
+    margin-top: 12rem;
     padding: var(--font-2);
 }
 #home .content h3{
